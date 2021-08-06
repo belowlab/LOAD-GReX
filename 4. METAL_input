@@ -1,0 +1,47 @@
+SEPARATOR  TAB
+MARKER Ensembl.ID
+ALLELE Ref nonRef
+EFFECT effect_size
+PVALUE pvalue
+WEIGHTLABEL N
+PROCESS ACT1.firth.txt
+PROCESS ACT2.firth.txt
+PROCESS ADC1.firth.txt
+PROCESS ADC2.firth.txt
+PROCESS ADC3.firth.txt
+PROCESS ADC4.firth.txt
+PROCESS ADC5.firth.txt
+PROCESS ADC6.firth.txt
+PROCESS ADC7.firth.txt
+PROCESS ADNI.firth.txt
+PROCESS BIOCARD.firth.txt
+PROCESS CHAP2.firth.txt
+PROCESS EAS.firth.txt
+PROCESS GSK.firth.txt
+PROCESS LOAD.firth.txt
+PROCESS MAYO.firth.txt
+PROCESS MIRAGE.firth.txt
+PROCESS NBB.firth.txt
+PROCESS OHSU.firth.txt
+PROCESS RMAYO.firth.txt
+PROCESS ROSMAP1.firth.txt
+PROCESS ROSMAP2.firth.txt
+PROCESS TARC1.firth.txt
+PROCESS TGEN2.firth.txt
+PROCESS UKS.firth.txt
+PROCESS UMVUMSSM.firth.txt
+PROCESS UMVUTARC2.firth.txt
+PROCESS UPITT.firth.txt
+PROCESS WASHU1.firth.txt
+PROCESS WASHU2.firth.txt
+PROCESS WHICAP.firth.txt
+PROCESS ARIC.spredix.txt
+PROCESS Bonn.spredix.txt
+PROCESS CHS.spredix.txt
+PROCESS EADI.spredix.txt
+PROCESS FHS.spredix.txt
+PROCESS GERAD.spredix.txt
+PROCESS RotterdamStudy1.spredix.txt
+PROCESS RotterdamStudy2.spredix.txt
+ANALYZE
+QUIT
